@@ -5,7 +5,7 @@ Username dicoding: amrul_fy
 
 | | Deskripsi |
 | ----------- | ----------- |
-| Dataset | [Detect AI Generated vs Student Generated Text Dataset](https://www.kaggle.com/datasets/prajwaldongre/llm-detect-ai-generated-vs-student-generated-text)) |
+| Dataset | [Detect AI Generated vs Student Generated Text Dataset](https://www.kaggle.com/datasets/prajwaldongre/llm-detect-ai-generated-vs-student-generated-text) |
 | Masalah | Di era kemajuan teknologi seperti sekarang, AI telah mengalami perkembangan yang sangat pesat. Kemajuan ini ditandai dengan adanya suatu sistem AI yang mampu menghasilkan suatu keluaran (output) dalam bentuk tertentu sesuai dengan instruksi dari pengguna. Salah satu bentuk hasil keluaran AI adalah teks. Seiring dengan kemajuan, teks yang dihasilkan oleh AI ini semakin tidak dapat dibedakan secara langsung oleh manusia sehingga muncul suatu isu dalam hal digital texting.   |
 | Solusi machine learning | Dengan menggunakan machine learning, model yang dilatih diharapkan dapat menentukan apakah suatu teks  dihasilkan oleh AI atau manusia. |
 | Metode pengolahan | Pada dataset yang digunakan, terdapat dua feature, yaitu feature "Text" dan "Label", lalu dilakukan analisis data dengan cara menghapus data kosong dan menerapkan label encoder untuk feature "Label" supaya entri dari data tersebut bertipe integer.  Kemudian dilakukan split data training dan evaluasi menjadi rasio 80:20. |
